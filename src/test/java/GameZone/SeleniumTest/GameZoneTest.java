@@ -33,7 +33,7 @@ public class GameZoneTest {
       
       // Verify that the page has navigated to the RegisterServlet
       Assert.assertEquals(webDriver.getTitle(), "Register");
-      System.out.println("Title" + webDriver.getTitle());
+      System.out.println("Title : " + webDriver.getTitle());
   }
 
   @BeforeTest
