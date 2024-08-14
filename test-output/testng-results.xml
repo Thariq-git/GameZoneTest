@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-14T12:37:40Z" name="Default suite" finished-at="2024-08-14T12:37:49Z" duration-ms="8711">
+    <groups>
+    </groups>
+    <test started-at="2024-08-14T12:37:40Z" name="Default test" finished-at="2024-08-14T12:37:49Z" duration-ms="8711">
+      <class name="GameZone.SeleniumTest.GameZoneTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:GameZone.SeleniumTest.GameZoneTest@47f9738]" started-at="2024-08-14T20:37:40Z" name="beforeTest" finished-at="2024-08-14T20:37:48Z" duration-ms="7804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="checkRegistration()[pri:0, instance:GameZone.SeleniumTest.GameZoneTest@47f9738]" started-at="2024-08-14T20:37:48Z" name="checkRegistration" finished-at="2024-08-14T20:37:48Z" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegistration -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:GameZone.SeleniumTest.GameZoneTest@47f9738]" started-at="2024-08-14T20:37:48Z" name="afterTest" finished-at="2024-08-14T20:37:49Z" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- GameZone.SeleniumTest.GameZoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
